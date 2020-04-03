@@ -20,8 +20,9 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: willian<br><strong>jack comunicação</strong>
-  content: nascidos para criar, somos inquietos e sempre em busca de novos desafios
+  headline: ''
+  content: nascidos para criar, somos inquietos e sempre em busca de novos desafios,<br>lorem
+    txtus ipsum, com cafe e muita comunicacao,<br>para sempre textus ipsum.
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
