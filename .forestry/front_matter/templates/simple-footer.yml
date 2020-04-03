@@ -7,6 +7,16 @@ fields:
   label: block
   name: block
   default: footer-1
+- name: asddd
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: asddd
+  description: ssdee
 - type: textarea
   label: Footer Text
   name: content
