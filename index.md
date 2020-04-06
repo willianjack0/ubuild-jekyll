@@ -126,7 +126,7 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Jack Comunicação ❤︎ Criando desde 2012<br>2020 - Alguns direitos reservados.
   asddd: ''
 
 ---
