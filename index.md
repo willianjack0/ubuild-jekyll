@@ -82,6 +82,16 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/Asset 2.png"
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>Anúncios</strong><br>Mídias Pagas"
+  content: 'Aumente suas visitas e alavanque suas venda, anuncie para o público ideal.Criação
+    de campanhas de performance, remarketing e/ou tráfego.Utilizando veículos como:
+    google ads, facebook ads, blue, entre outros.'
+  media:
+    image: "/uploads/2018/06/21/Asset 1.png"
+    alt_text: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
