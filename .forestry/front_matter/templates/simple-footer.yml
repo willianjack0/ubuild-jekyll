@@ -7,16 +7,11 @@ fields:
   label: block
   name: block
   default: footer-1
-- name: asddd
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: html-blocks
-  label: asddd
-  description: ssdee
+- name: hero_404
+  type: include
+  config: {}
+  template: hero-banner-w-image
+  label: Hero_404
 - type: textarea
   label: Footer Text
   name: content
