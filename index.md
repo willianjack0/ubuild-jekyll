@@ -35,12 +35,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: "<strong>Foco</strong>"
+  content: Nosso objetivo é deixar sua marca ou produto mais atrativo para seu público
+    alvo, com conteúdo, qualidade e beleza.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2018/06/21/Asset 8.png"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
