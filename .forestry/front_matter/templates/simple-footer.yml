@@ -1,9 +1,10 @@
 ---
 label: simple-footer
-hide_body: false
+hide_body: true
+display_field: headline
 fields:
 - type: text
-  hidden: true
+  hidden: false
   label: block
   name: block
   default: footer-1
