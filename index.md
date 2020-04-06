@@ -49,8 +49,8 @@ page_sections:
   content: 'Através de uma consultoria exclusiva: analisamos, planejamos, criamos
     e executamos o plano ideal para seu negócio.<br>'
   media:
-    image: ''
-    alt_text: Customize Blocks
+    image: "/uploads/2020/04/06/_anal_home.gif"
+    alt_text: how_we_do_gif
 - template: 1-column-text
   block: one-column-1
   headline: O que fazemos?
