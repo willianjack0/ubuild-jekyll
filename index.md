@@ -64,6 +64,15 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/Asset 5.png"
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Branding
+  content: Criação de identidades para sua marca e/ou produto, como embalagens e Visual
+    Merchandising.
+  media:
+    image: "/uploads/2018/06/21/Asset 5.png"
+    alt_text: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
