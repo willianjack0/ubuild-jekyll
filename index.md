@@ -62,7 +62,7 @@ page_sections:
   headline: Criação
   content: De campanhas SM, inbound, endomkt, outdoor, entre outras.
   media:
-    image: "/uploads/2018/06/21/Asset 5.png"
+    image: "/uploads/2018/06/21/Asset 6.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
@@ -123,6 +123,15 @@ page_sections:
   block: footer-1
   content: Jack Comunicação ❤︎ Criando desde 2012<br>2020 - Alguns direitos reservados.
   asddd: ''
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
 foo bar
