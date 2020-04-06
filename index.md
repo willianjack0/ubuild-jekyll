@@ -109,10 +109,28 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/Asset 3.png"
     alt_text: ''
+- template: simple-header
+  block: header-3
+  logo: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: ''
+    content: ''
+  col_2:
+    headline: ''
+    content: ''
+  col_3:
+    headline: ''
+    content: ''
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/Asset 7.png"
