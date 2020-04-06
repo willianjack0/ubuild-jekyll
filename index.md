@@ -39,7 +39,7 @@ page_sections:
   content: Nosso objetivo é deixar sua marca ou produto mais atrativo para seu público
     alvo, com conteúdo, qualidade e beleza.
   media:
-    image: "/uploads/2018/06/21/Asset 8.png"
+    image: "/uploads/2018/06/21/Asset 7.png"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
