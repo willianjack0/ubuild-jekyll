@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Jack Comunicação
-date: 2017-11-22 21:00:00 -0200
+date: 
 page_sections:
 - template: navigation-header-w-button
   block: header-2
