@@ -116,7 +116,7 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/Asset 7.png"
-  col_4: Home<br>Quem somos<br>O que fazemos<br>Projetos<br>Blog
+  col_4: "&lt;left&gt;Home<br>Quem somos<br>O que fazemos<br>Projetos<br>Blog"
   col_2: contato<br>tel. 11 9 9992 1234<br>chat@jackcomunicacao.com.br
   col_3: ''
 - template: simple-footer
