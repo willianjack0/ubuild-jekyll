@@ -13,6 +13,7 @@ fields:
 - type: datetime
   name: date
   label: Date
+  hidden: true
 - type: blocks
   name: page_sections
   label: Page Sections
