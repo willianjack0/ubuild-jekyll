@@ -100,6 +100,15 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/Asset 1.png"
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  content: Deixe seu site google-friendly, através de boas práticas de SEO.Aumentando
+    suas visitas orgânicas, com um site mais relevante.
+  headline: SEO
+  media:
+    image: "/uploads/2018/06/21/Asset 3.png"
+    alt_text: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
