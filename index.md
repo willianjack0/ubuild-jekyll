@@ -56,6 +56,14 @@ page_sections:
   headline: O que fazemos?
   content: Atndemos todas suas necessidades, e estamos sempre dispostos a te ajudar,
     etmos todas soluções para seu negóco
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Criação
+  content: De campanhas SM, inbound, endomkt, outdoor, entre outras.
+  media:
+    image: "/uploads/2018/06/21/Asset 5.png"
+    alt_text: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
