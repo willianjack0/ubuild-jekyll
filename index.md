@@ -73,6 +73,15 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/Asset 5.png"
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Mídias online
+  content: Sua identidade nas redes sociais, criamos um tom de voz assertivo e adequado
+    para cada uma de suas redes.<br>
+  media:
+    image: "/uploads/2018/06/21/Asset 2.png"
+    alt_text: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
