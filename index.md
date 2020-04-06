@@ -119,14 +119,21 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: ''
-    content: ''
+    headline: Eporio Royal
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      temporary incididunt ut labore et dolore magna aliqua. Enim adim ad minimim
+      veniam, quis nostrud exercise ullamco laboris nisi ut alipip ex ea commodo consequat.<br><em>Ana
+      Lucia</em>
   col_2:
-    headline: ''
-    content: ''
+    headline: Goofy Since 1987
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      temporary incididunt ut labore aliqua. Enim adim ad minimim veniam, quis nostrud
+      exercise ullamco  nisi ut alipip ex ea commodo.<br><em>Nome de Fulno</em>
   col_3:
-    headline: ''
-    content: ''
+    headline: Boa Vista Imoveis
+    content: Lorem, consectetur adipiscing elit, sed do temporary incididunt ut labore
+      et dolore magna . Enim adim ad minimim veniam, quis nostrud exercise ullamco
+      laboris nisi ut alipip ex ea consequat.<br><em>Augusto Ballas</em>
 - template: signup-bar
   block: cta-bar
   content: ''
