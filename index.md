@@ -21,8 +21,9 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: ''
-  content: nascidos para criar, somos inquietos e sempre em busca de novos desafios,<br>lorem
-    txtus ipsum, com cafe e muita comunicacao,<br>para sempre textus ipsum.
+  content: Somos uma agência nascida para se comunicar, tendo a criatividade como
+    força, somos inquietos e inovadores. Sempre surpreendendo, buscamos a melhor solução
+    para seus desafios.
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
@@ -75,6 +76,7 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+  asddd: ''
 
 ---
 foo bar
