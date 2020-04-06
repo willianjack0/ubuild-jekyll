@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Jack Comunicação
-date: 
+date: 2020-04-06 00:00:00 -0300
 page_sections:
 - template: navigation-header-w-button
   block: header-2
