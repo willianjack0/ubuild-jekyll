@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Jack Comunicação
-date: 2020-04-06 00:00:00 -0300
+date: 2020-04-06T03:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -35,17 +35,17 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Foco</strong>"
+  headline: <strong><img src="/uploads/2018/06/21/foco-texto-jaco-comunicacao.png"></strong>
   content: Nosso objetivo é deixar sua marca ou produto mais atrativo para seu público
     alvo, com conteúdo, qualidade e beleza.
   media:
-    image: "/uploads/2018/06/21/Asset 7.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2018/06/21/foco-imagem-jaco-comunicacao.png"
+    alt_text: nosso foco
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Como Fazemos?</strong><span class="light"> <br></span>Analisamos,
-    Planejamos, Criamos e Executamos
+  headline: <strong><img src="/uploads/2018/06/21/comofazemos-texto-jaco-comunicacao.png"></strong><span
+    class="light"><br></span>Analisamos, Planejamos, Criamos e Executamos
   content: 'Através de uma consultoria exclusiva: analisamos, planejamos, criamos
     e executamos o plano ideal para seu negócio.<br>'
   media:
@@ -53,16 +53,17 @@ page_sections:
     alt_text: how_we_do_gif
 - template: 1-column-text
   block: one-column-1
-  headline: O que fazemos?
-  content: Atndemos todas suas necessidades, e estamos sempre dispostos a te ajudar,
-    etmos todas soluções para seu negóco
+  headline: ''
+  content: <img src="/uploads/2018/06/21/comofazemos-title-jaco-comunicacao.png"><br>Atendemos
+    todas suas necessidades, e estamos sempre dispostos a te ajudar, etmos todas soluções
+    para seu negóco
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Criação
+  headline: <img src="/uploads/2018/06/21/criacao-texto-jaco-comunicacao.png">
   content: De campanhas SM, inbound, endomkt, outdoor, entre outras.
   media:
-    image: "/uploads/2018/06/21/Asset 6.png"
+    image: "/uploads/2018/06/21/criacao-imagem-jaco-comunicacao.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
