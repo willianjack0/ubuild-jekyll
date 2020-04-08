@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Jack Comunicação
+title: n_layout
 date: 
 page_sections:
 - template: navigation-header-w-button
@@ -153,6 +153,7 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+published: false
 
 ---
 foo bar
