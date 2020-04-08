@@ -68,55 +68,59 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Branding
+  headline: <img src="/uploads/2018/06/21/branding-texto-jaco-comunicacao.png">
   content: Criação de identidades para sua marca e/ou produto, como embalagens e Visual
     Merchandising.
   media:
-    image: "/uploads/2018/06/21/Asset 5.png"
+    image: "/uploads/2018/06/21/branding-imagem-jaco-comunicacao.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Mídias online
+  headline: <img src="/uploads/2018/06/21/midias-texto-jaco-comunicacao.png">
   content: Sua identidade nas redes sociais, criamos um tom de voz assertivo e adequado
     para cada uma de suas redes.<br>
   media:
-    image: "/uploads/2018/06/21/Asset 2.png"
+    image: "/uploads/2018/06/21/midias-imagem-jaco-comunicacao.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Anúncios</strong><br>Mídias Pagas"
+  headline: <strong><img src="/uploads/2018/06/21/Anuncios-texto-jaco-comunicacao.png"></strong>
   content: 'Aumente suas visitas e alavanque suas venda, anuncie para o público ideal.Criação
     de campanhas de performance, remarketing e/ou tráfego.Utilizando veículos como:
     google ads, facebook ads, blue, entre outros.'
   media:
-    image: "/uploads/2018/06/21/Asset 1.png"
+    image: "/uploads/2018/06/21/anuncios-imagem-jaco-comunicacao.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Ecommerce
+  headline: <img src="/uploads/2018/06/21/ecomerce-texto-jaco-comunicacao.png">
   content: Auxiliamos desde o projeto e implementação da loja online até a parte operacional.<br>
   media:
-    image: "/uploads/2018/06/21/Asset 1.png"
+    image: "/uploads/2018/06/21/ecom-imagem-jaco-comunicacao.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
   content: Deixe seu site google-friendly, através de boas práticas de SEO.Aumentando
     suas visitas orgânicas, com um site mais relevante.
-  headline: SEO
+  headline: <img src="/uploads/2018/06/21/Seo-texto-jaco-comunicacao.png">
   media:
-    image: "/uploads/2018/06/21/Asset 3.png"
+    image: "/uploads/2018/06/21/seo-imagem-jaco-comunicacao.png"
     alt_text: ''
 - template: simple-header
   block: header-3
-  logo: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
+  logo: "/uploads/2018/06/21/jafizemos-title-jaco-comunicacao.png"
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2018/06/21/Asset 1.png"
+    caption: ''
+  image_2:
+    image: "/uploads/2018/06/21/Asset 4.png"
+    caption: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
