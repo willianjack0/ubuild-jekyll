@@ -13,7 +13,7 @@ page_sections:
     link_text: Features
   - link: "#pricing"
     link_text: Pricing
-  - link: "#team"
+  - link: "/blog"
     link_text: Team
   cta:
     url: "#footer"
