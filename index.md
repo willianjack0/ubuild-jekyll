@@ -110,9 +110,10 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/seo-imagem-jaco-comunicacao.png"
     alt_text: ''
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2018/06/21/jafizemos-title-jaco-comunicacao.png"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/06/21/jafizemos-title-jaco-comunicacao.png"
+  caption: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
