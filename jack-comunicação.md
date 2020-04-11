@@ -28,8 +28,8 @@ page_sections:
     image: "/uploads/2018/06/21/Asset 7.png"
     alt_text: uBuild Blocks Mock-Up
 - template: ''
-  block: ''
-  navigation: ''
+  block: <article class="post"> {{ content }} <p>{{test}}</p> </article>
+  navigation: []
   cta: ''
 - template: signup-bar
   block: cta-bar
